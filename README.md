@@ -1,5 +1,5 @@
 # Panther Parking
-[![Build Status](https://travis-ci.com/csci312-f19/project-parking.svg?token=y2Bft5xpM6zVA2WT1qt5&branch=master)](https://travis-ci.com/csci312-f19/project-parking)
+[![Build Status](https://travis-ci.com/AumitLeon/panther-parking.svg?branch=master)](https://travis-ci.com/AumitLeon/panther-parking)
 
 [Heroku App](https://panther-parking.herokuapp.com)
 

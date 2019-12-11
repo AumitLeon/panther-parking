@@ -1,7 +1,8 @@
 # Panther Parking
-[![Build Status](https://travis-ci.com/AumitLeon/panther-parking.svg?branch=master)](https://travis-ci.com/AumitLeon/panther-parking)
+[![Build Status](https://travis-ci.com/AumitLeon/panther-parking.svg?branch=master)](https://travis-ci.com/AumitLeon/panther-parking) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-[Heroku App](https://panther-parking.herokuapp.com)
+
+[Heroku App](https://panther-parking.herokuapp.com) 
 
 Middlebury college students, faculty, and visitors are often at a loss when it comes to figuring out where they can and can't park. This is due in large part to the confusing collection of parking permits and rules that make it difficult to understand where there is parking available, and if a particular permit is allowed to park in that area.
 

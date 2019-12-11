@@ -10,6 +10,10 @@ Panther Parking is an interactive informational application that aims to provide
 This project was originally developed by [@csci312-f19/parking](https://github.com/orgs/csci312-f19/teams/parking/members)
 as part of the Software Development course (CSCI 312) at Middlebury College. 
 
+This project utilizes material design princilpes in order to construct an experience that scale across platform and device. 
+
+![Desktop Version](assets/desktop-full-screen.png) 
+
 # Project Skeleton Top-level
 
 This repository combines the client and server into a single repository that can be co-developed, tested and ultimately deployed to Heroku or basin.cs.middlebury.edu.

@@ -1,11 +1,18 @@
 # Panther Parking
-[![Build Status](https://travis-ci.com/csci312-f19/project-parking.svg?token=y2Bft5xpM6zVA2WT1qt5&branch=master)](https://travis-ci.com/csci312-f19/project-parking)
+[![Build Status](https://travis-ci.com/AumitLeon/panther-parking.svg?branch=master)](https://travis-ci.com/AumitLeon/panther-parking)
 
 [Heroku App](https://panther-parking.herokuapp.com)
 
 Middlebury college students, faculty, and visitors are often at a loss when it comes to figuring out where they can and can't park. This is due in large part to the confusing collection of parking permits and rules that make it difficult to understand where there is parking available, and if a particular permit is allowed to park in that area.
 
 Panther Parking is an interactive informational application that aims to provide insight into where students, faculty, and visitors are allowed to park on campus.
+
+This project was originally developed by [@csci312-f19/parking](https://github.com/orgs/csci312-f19/teams/parking/members)
+as part of the Software Development course (CSCI 312) at Middlebury College. 
+
+This project utilizes material design princilpes in order to construct an experience that scale across platform and device. 
+
+![Desktop Version](assets/desktop-full-screen.png) 
 
 # Project Skeleton Top-level
 

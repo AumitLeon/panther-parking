@@ -10,7 +10,7 @@ Panther Parking is an interactive informational application that aims to provide
 This project was originally developed by [@csci312-f19/parking](https://github.com/orgs/csci312-f19/teams/parking/members)
 as part of the Software Development course (CSCI 312) at Middlebury College. 
 
-This project utilizes material design princilpes in order to construct an experience that scale across platform and device. 
+This project utilizes [material design principles](https://material.io/design/introduction/) in order to construct an experience that scales across platform and device. 
 
 ![Desktop Version](assets/desktop-full-screen.png) 
 
